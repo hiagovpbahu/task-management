@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "gregorbiswanger.json2ts",
+    "esbenp.prettier-vscode",
+    "jasonnutter.search-node-modules",
+    "pmneo.tsimporter",
+    "visualstudioexptteam.vscodeintellicode",
+    "stringham.move-ts",
+    "luis.console-log",
+    "eamodio.gitlens",
+    "ravenq.vscode-goto-node-modules",
+    "naumovs.color-highlight",
+    "TabNine.tabnine-vscode",
+    "rodrigovallades.es7-react-js-snippets",
+    "dsznajder.es7-react-js-snippets",
+    "SonarSource.sonarlint-vscode",
+    "bradlc.vscode-tailwindcss"
+  ],
+  "unwantedRecommendations": []
+}

@@ -1,0 +1,71 @@
+{
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.formatOnSave": true,
+  "editor.suggestSelection": "first",
+  "git.enableSmartCommit": true,
+  "files.eol": "\r\n",
+  "git.autofetch": true,
+  "gitlens.blame.highlight.enabled": false,
+  "gitlens.codeLens.recentChange.enabled": false,
+  "gitlens.codeLens.authors.enabled": false,
+  "vsintellicode.modify.editor.suggestSelection": "enabled",
+  "editor.snippetSuggestions": "inline",
+  "gitlens.advanced.caching.enabled": true,
+  "tsimporter.preferRelative": false,
+  "tsimporter.emitSemicolon": false,
+  "tsimporter.doubleQuotes": false,
+  "tsimporter.noStatusBar": true,
+  "tsimporter.spaceBetweenBraces": true,
+  "typescript.autoClosingTags": true,
+  "typescript.preferences.quoteStyle": "single",
+  "typescript.format.semicolons": "remove",
+  "prettier.semi": false,
+  "javascript.format.semicolons": "remove",
+  "svgPreview.scaleToFit": false,
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "node_modules/**": true,
+    ".cache/**": true,
+    "build/**": true,
+    ".git/**": true,
+    "yarn-error.log": true,
+    "yarn.lock": true
+  },
+  "files.exclude": {
+    "**/node_modules": true,
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    ".cache/**": true,
+    "**/.DS_Store": true,
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/*/**": true,
+    "**/build/**": true,
+    "**/temporary/**": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.tsdk": "node_modules/typescript/lib"
+}
